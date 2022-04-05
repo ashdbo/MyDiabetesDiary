@@ -1,6 +1,6 @@
 # MyDiabetesDiary
-Final project for CS50:Introduction to Computer Science from HarvardX
-My project is an Android app called My Diabetes Diary. I decided I wanted to build and app because as a type 1 diabetic I found that the apps 
+Final project for CS50:Introduction to Computer Science from HarvardX called My Diabetes Diary (https://www.youtube.com/watch?v=b31_2KGM2A0). 
+I decided I wanted to build and app because as a type 1 diabetic I found that the apps 
 I was using to track my diabetes information were alwalys missing something or not quite what I was looking for. My app has 3 sepearate screens, 
 the first is a note taking function, the second a log for my insulin pump settings and the third is graphs. The notes taking function has an add 
 and delete featrure with new notes being set to the top of the screen. If a note is clicked it brings you to a screen where you can edit or add 
